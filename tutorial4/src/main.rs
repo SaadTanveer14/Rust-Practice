@@ -1,3 +1,4 @@
+//  Scaler and Compound variable types
 fn main () {
 
     // Scaler Types
